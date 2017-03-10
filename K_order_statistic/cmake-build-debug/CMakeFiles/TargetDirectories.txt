@@ -1,0 +1,3 @@
+/home/alex/Documents/Git/Algorithms/K_order_statistic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/Documents/Git/Algorithms/K_order_statistic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/Documents/Git/Algorithms/K_order_statistic/cmake-build-debug/CMakeFiles/K_order_statistic.dir
