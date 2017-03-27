@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/K_order_statistic.dir/main.cpp.o  -o K_order_statistic 
